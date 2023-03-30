@@ -10,7 +10,6 @@ public class PilhaTela {
 
   void empilhar(int value) {
     pil.add(value);
-    System.out.println("Valor empilhado: " + value);
   }
 
   int desempilhar() {
